@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Readme Graphic](https://teaguelearningsite-extra.000webhostapp.com/graphic.gif)
+![Readme Graphic](+<img src="/graphic.gif?raw=true" width="200px">)
 
 
 <!--
