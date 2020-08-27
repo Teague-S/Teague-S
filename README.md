@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Readme Graphic](https://teaguelearningsite-extra.000webhostapp.com/graphic.gif)
+
+
 <!--
 **Teague-S/Teague-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
