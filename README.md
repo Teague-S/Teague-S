@@ -6,7 +6,7 @@
 - 🏫 &nbsp; High school student
 
 ## What I'm doing now 🤔
-- 📚 &nbsp; I’m currently studying front end JavaScript, and how to use JavasScript libraries. 
+- 📚 &nbsp; I’m currently studying front end JavaScript, and how to use JavaScript libraries. 
 
 ## Check out my work 👀
 
