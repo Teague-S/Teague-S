@@ -1,3 +1,3 @@
-- 🖥️ &nbsp; Learning to persue Computer Science 
+- 🖥️ &nbsp; Persuing Computer Science 
 - 📧 &nbsp; Email: teague.spooner@gmail.com
 - 🏫 &nbsp; Wheeler '23
