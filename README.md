@@ -1,3 +1,2 @@
-- 🖥️ &nbsp; Persuing Computer Science 
+- 🖥️ &nbsp; Computer Science 
 - 📧 &nbsp; Email: teague.spooner@gmail.com
-- 🏫 &nbsp; Wheeler '23
